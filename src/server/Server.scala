@@ -1,3 +1,7 @@
+/*
+ * Juan Antonio Aldea Armenteros (2013)
+ */
+
 package server
 
 import scala.actors.Actor

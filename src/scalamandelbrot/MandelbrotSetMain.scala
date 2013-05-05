@@ -1,3 +1,7 @@
+/*
+ * Juan Antonio Aldea Armenteros (2013)
+ */
+ 
 package scalamandelbrot
 
 import algorithm._

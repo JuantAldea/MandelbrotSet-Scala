@@ -1,3 +1,7 @@
+/*
+ * Juan Antonio Aldea Armenteros (2013)
+ */
+ 
 package graphics
 
 class PGMImage(val data: List[List[Int]], val maxColorLevel: Int) {
