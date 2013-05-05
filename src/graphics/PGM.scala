@@ -1,5 +1,5 @@
 /*
- * Juan Antonio Aldea Armenteros (2013)
+ * Juan Antonio Aldea Armenteros (5-5-2013)
  */
  
 package graphics
