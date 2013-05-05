@@ -1,4 +1,4 @@
 ScalaMandelbrotSet
 ==================
-- Inmutable implementation of Mandelbrot Set sequential algorithm.
-- WIP Multi-Threaded version 
+- Inmutable implementation of Mandelbrot Set sequential algorithm (needs more memory optimization).
+- WIP Multi-Threaded version.
