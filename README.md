@@ -1,6 +1,7 @@
 ScalaMandelbrotSet
 ==================
-- Inmutable implementation of Mandelbrot Set sequential algorithm (needs more memory optimization).
+- Inmutable implementation of Mandelbrot Set sequential algorithm (needs memory optimization).
 - TODO:
-  * Actor-based version.
-  * Drop lists and use something else to reduce the immutability overheat
+- * Use immutable vector to reduce the huge overheat caused by list immutability.
+  * Parallel/concurrent actor-based version.
+  
